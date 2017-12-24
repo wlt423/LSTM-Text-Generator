@@ -1,0 +1,262 @@
+
+Epoch: 1
+
+C:\Users\wlt42\Anaconda3\envs\neuralnets\lib\site-packages\keras\models.py:939: UserWarning: The `nb_epoch` argument in `fit` has been renamed `epochs`.
+  warnings.warn('The `nb_epoch` argument in `fit` '
+Epoch 1/1
+1193/1193 [==============================] - 40s 33ms/step - loss: 3.1173
+O                                                                                                                                                                                                                                                                                                                                                                                                     
+
+Epoch: 2
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 33ms/step - loss: 3.0206
+9 e  ee e e e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e ee e e
+
+Epoch: 3
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 34ms/step - loss: 2.8968
+wa aas aanttaattaataantaantaantaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaantaaant
+
+Epoch: 4
+
+Epoch 1/1
+1193/1193 [==============================] - 39s 33ms/step - loss: 2.6867
+H at an the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+
+Epoch: 5
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 33ms/step - loss: 2.4650
+N and and tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore tore
+
+Epoch: 6
+
+Epoch 1/1
+1193/1193 [==============================] - 39s 33ms/step - loss: 2.3523
+? he the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on the s on
+
+Epoch: 7
+
+Epoch 1/1
+1193/1193 [==============================] - 39s 33ms/step - loss: 2.2675
+me the the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sor
+
+Epoch: 8
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 33ms/step - loss: 2.2082
+Le the sore her her was the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore he the sore
+
+Epoch: 9
+
+Epoch 1/1
+1193/1193 [==============================] - 39s 33ms/step - loss: 2.1407
+A the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the bound the boun
+
+Epoch: 10
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 33ms/step - loss: 2.0831
+R the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the
+
+Epoch: 11
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 34ms/step - loss: 2.0352
+t he was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the
+
+Epoch: 12
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 34ms/step - loss: 1.9780
+be the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of the some the sould of
+
+Epoch: 13
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 33ms/step - loss: 1.9309
+le the booth the rook and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores of the boother and he sould of the bores o
+
+Epoch: 14
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 34ms/step - loss: 1.8848
+9 the sind and stough and stome and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and stough and st
+
+Epoch: 15
+
+Epoch 1/1
+1193/1193 [==============================] - 43s 36ms/step - loss: 1.8357
+d the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had the had th
+
+Epoch: 16
+
+Epoch 1/1
+1193/1193 [==============================] - 42s 35ms/step - loss: 1.7912
+        the stough the street of her store and he had he was a paring the road and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he was a he for a pare and he read and he had he
+
+Epoch: 17
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 33ms/step - loss: 1.7482
+F the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was from the rear and he was fro
+
+Epoch: 18
+
+Epoch 1/1
+1193/1193 [==============================] - 44s 37ms/step - loss: 1.7011
+        the street to the stores, and she sad and he was a streat to stouth and stould and streath and stould and strent to stould and stopped to the stould and streath and stould and strent to stould and stopped to the stould and streath and stould and strent to stould and stopped to the stould and streath and stould and strent to stould and stopped to the stould and streath and stould and strent to stould and stopped to the stould and streath and stould and strent to stould and stopped to the stould
+
+Epoch: 19
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 1.6639
+x the stopped to the would he was been the beach of the house of the boy stopped to the would he was been the beach of the house of the boy stopped to the would he was been the beach of the house of the boy stopped to the would he was been the beach of the house of the boy stopped to the would he was been the beach of the house of the boy stopped to the would he was been the beach of the house of the boy stopped to the would he was been the beach of the house of the boy stopped to the would he w
+
+Epoch: 20
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 34ms/step - loss: 1.6150
+d the boy the grown of the words of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of the thought of
+
+Epoch: 21
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 1.5712
+On the store to the rears of the rears of the road and he reached the rear of the store to the road and her langed the boy the store of the rear and he reached the rears of the rear of the stores of the road and he reached the bottles of the rears of the rears of the road and he reached the rear of the store to the road and her langed the boy the store of the rear and he reached the rears of the rear of the stores of the road and he reached the bottles of the rears of the rears of the road and h
+
+Epoch: 22
+
+Epoch 1/1
+1193/1193 [==============================] - 44s 37ms/step - loss: 1.5194
+g the but the was a streating the was a street to the day on the back and the stopping the stopped to seet the smoke and she was a thurt the stopped to the dind the street to the day on the but on the day on the back and stepped to stouth the mand and he had becand the beach was a street to the the thate was and the stopped to the was a streating the was the stould be the stopping the stopped to seet the smoke and she was a thurt the stopped to the dind the street to the day on the but on the da
+
+Epoch: 23
+
+Epoch 1/1
+1193/1193 [==============================] - 44s 37ms/step - loss: 1.4738
+ the street of the would not one of the street.
+        The wold was no looked and when he stopped, the stopped to fore, the street of the blood and stopped to rest of the stoppers, came the horse for a street of the would ne had been the street of the would not one of the street.
+        The word was no long and when he stood on the store, and stopped to fore with an she found and when he stopped, and stopping to fine the his sees, and sut of the store, the street of the would not was the stoppers, the sto
+
+Epoch: 24
+
+Epoch 1/1
+1193/1193 [==============================] - 43s 36ms/step - loss: 1.4220
+G the stopping the street with a street as the store, but the words of the store, but the boy so the store, but the words of the store with the would ge the street to the burning the could he would be a street and stopping the street with the word, but the word was no would be the the would ge the street with the words of the rist of the road and he was a row a frow the streets of the building what his way and he was and his brot land the word wo long the highway for the building with a street o
+
+Epoch: 25
+
+Epoch 1/1
+1193/1193 [==============================] - 44s 37ms/step - loss: 1.3692
+wand the boy stopped to rest on the road and the boy stopp that was the would get of the road and langed the boy and he had been the boy and he had been the bores of the road of the words on the smoke on the bottles with the horseaded the boy stopp to the ring to a bottle of stopp to move stoke out of his consestions on the store, countaness on the road a lottle of the wound on the stoppert, they were not the bointing of a pan to some there was not the bare of the town. The word on the boy on th
+
+Epoch: 26
+
+Epoch 1/1
+1193/1193 [==============================] - 46s 38ms/step - loss: 1.3069
+'s for a few foo here fearing in he houghtoo ho longer and some he sould his for the horse, from the pars of the pars of the partar searing the horse were he rearing of the priest of the horse, from the hear on the something in the something he seeloon on the priest of the horse for the hollerse to some on the stoppersest. The she was a  of the sometion with he house of his something his eyes, and he seared his longer of the painsillers.
+        The priest for the horse were not to to to to to to to t
+
+Epoch: 27
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 1.2508
+re the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the horse and the hor
+
+Epoch: 28
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 1.1891
+Le the should be the horse from the hear was the worde and he was hore of the road was sull with his body and he had had rest resting the worns from the pars of her town, he hear of the bottle with the womes on the rearth and stopped to fore hime to seet of the wound he was from her leath of the worns on the fare there were not was from the reach with he would net been the words of her that stood the rears of the wall of the words of the was he had been the priest street the wores were butter wi
+
+Epoch: 29
+
+Epoch 1/1
+1193/1193 [==============================] - 42s 35ms/step - loss: 1.1240
+zen where he was an intole continne that had not seeped the best of the fare of here in the store, his both and for her pares of her cars of her the stoppes from shell of his hors. "Whan's yey bottles of his houth, she line he was horse from the ene recure of his way sone of the right suckoning his horse for a mome pars of and fire his booth and for most and spopped become the horse for the pars of she pain and reach was a streats of from the enchess and he found a prace could not lige and not s
+
+Epoch: 30
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 1.0659
+!       He could not was to the wast of the was and a had foo street about the horse feet filling on her foor and a head and he had a sear a few wore growe growe were was langed of the road and when he reat down the highway some their street the mase and a reach whisperes of the wound have the horse fell and leaved the rest of the rail and and he stored to fee his was and when he reaking it was she was alout the rear agound her dien't she had and he there the glass betwanding on a stick with a shimper
+
+Epoch: 31
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 0.9962
+Jouth as the smoke as the town where they was a streats of the town, the words he had them there were better but the shore was nother mart of the the sen the street. The words he dest of the mountains the smoke in the somach. They went he ded to her few of the tunterss and mares of persections of the shoppest caming the honsed to the black was a pelace of strest a few wasered the horse where they could nee in the stopper, ches in the she feet of the the pass of the countar that the sholl be the
+
+Epoch: 32
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 0.9346
+panting the highway her foo had seening the highway her foother droad of steel of the town, it seericur of the soon what he was and he sourd his gone, but he was a looking from thing hereed to the boy and her feet in the beach on the horse foothing for the priest's sine whild his for shether and she was a gotan and his brother was in in his hand and st pased to to the dien's seething. They were not the fing that was the would get would be the smoke for the fine was gring the sine that his begine
+
+Epoch: 33
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 0.8658
+, the air and his booth as if the smoke in the side to lave the hind a filly and the hand and rother diend a sund his would have to go a for whish yoursed him, but his was way to the horse and fured into a fither way a doass and a road a matt a ait, she was and his bottles of the his way wound ingoning and and the road it was.
+        Andally about a fime and on the sat his father and a down of his sime. He bottle with the gonsed a the rist was the building with a strown with a strack and loded a ther
+
+Epoch: 34
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 0.8077
+med the cross of the right of wo ld the his sat up to the rountain that chich was on the dark, stopped there chericar broken over that stoppes of cond in the counter of his part of the three lay she had and her for his frong on one of the short of hear head of the rord and sters of smoke air his from shrop heave on the bottle with the highway on the burch of mouth. Ben sat be he hourd on the road and he had hear had for a from the her and his body before him, the smoke it and of stoption shere w
+
+Epoch: 35
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 0.7513
+( a criss from and longers and a nowner befine it wall but she ling the was a road a mole an all say and he found a prestly side and she sand here they for a dound and a sure as the streaks of fee him and as if she fishead have that she deward a few say when he spild for searching say, res abe the streats of the barrear was a steep as in a realic abound at it peet af there there was nothing lint of the smate. He should so his feet. The tirl was not lay agring in the distance. He had brother a di
+
+Epoch: 36
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 0.6863
+4 the bottles of pellsss. She stord here and he had been the beach and he took down a box the prested as he would say up to the toon. Ever the brow. He some here, the three here of the bot destion. She would feet fither the grass bet stapped dovere. The she ploored her been and for a half an the end of the blackes of pearss of smoll came an the boy stoped and sented to fore to no, in the sood. She parsed his brothered to her, Jack spent of the house, and it nowhered to fe to the sodes, he spled
+
+Epoch: 37
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 35ms/step - loss: 0.6357
+g the great so the beact on the the had the placed in the bottles with the himem. He set it wark Joe cain le where the glass fill was the shows and he found a street of stret stices. The read with the horse, were be ther with it sat, street him and had been the bere there felt fine wheel ye those he leated on the barrel with he dettoon he redicine the bench shat and sed the bexing that dir the shere was betting in the him, the streets there with the words, he carm there to sting her went himper
+
+Epoch: 38
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 0.5775
+8 the boy and it made town to the siters with buintaning in the dark, he this park of the boord there in the becam of the road crashed on his foon. He bottles was the horse great bromed and the boy had remained a searing in his wanter. The boy stood the beging in the dad, he rose and his body. There was nother infining herside of heropertead.
+        The boy spoke down the mola-good that the smoke for bard and momantay and his froencas in the backs of dest there was the building with a rear-ig a deate
+
+Epoch: 39
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 0.5326
+could see for tho piles of the hightay eneugh the corver the this thought. The didare strange to the priest and made had a most for whill park of it was shill with rick and the praster shit was still running, and against the divider. Her from the hear hand and he town, the billing of the for and a church the ride. The horse should her arsthing the glanked his hard the smelt as it down the fire in a rearicy thing the wond.
+        The priest was the horse, freving the charse, hers then tomates it there
+
+Epoch: 40
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 0.4857
+( the shiny blood it whise the gater and she was that they roth a thill carter looking for she with as iven wish his matter good to the horse of the corvers. The romaning look at the short streets of her load promees in the words on the horse on the mottar him in the sind his lind rearing in the shinght of hoo that was a little intont on the matt he housed his counter. He would that she would have to go wool so k and his eyes this came and he to what where the horse was her listle into the shirg
+
+Epoch: 41
+
+Epoch 1/1
+1193/1193 [==============================] - 40s 34ms/step - loss: 0.4504
+e wouldn't for a domen abret of the barken. His pasted to for the topates it the worded and where the glass that strents of row. He leatine filling it where it sey, the bast as the best of down the piter cas began to sood, "We't stipp of oolly a fow the hig wass on the pines of to to this town, but he bot of the lare, reauining the on the lay a road and so tres to some on the beact was vearty and for it was road, the ondy to the tay been and graved to stick as every him as to the began that dad
+
+Epoch: 42
+
+Epoch 1/1
+1193/1193 [==============================] - 41s 34ms/step - loss: 0.4076
+mants of the realing on the floor on the bence, his bace into the hard, leagies in the backsain.
+        "The thought the bloter led.
+        The woman was lay on the horse, looking back and fram the lect of the plastic seen there was a dew, brobbing the lages of a searth and looked at the priest of the reath. The priest lot, a hand and looked up there were stoped. The contrest of the really, rearing into the light ond or the realing out of her procer, they realing out of her procers, but not in in the tind
